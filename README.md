@@ -1,1 +1,3 @@
-"# PERN-STACK-YELP-CLONE" 
+# PERN-STACK-YELP-CLONE
+
+The PERN Stack Yelp Clone is a full-stack web application designed to replicate the core functionalities of Yelp, enabling users to explore, review, and rate local businesses. Built using PostgreSQL for robust data management, Express.js and Node.js for a scalable backend API, and React.js for a dynamic and responsive frontend, this project showcases a comprehensive approach to modern web development. The application features user authentication, secure review submission, and interactive business listings, all while maintaining a clean, intuitive user interface. With additional enhancements like Google Maps integration and responsive design, this Yelp clone offers a seamless user experience across devices.
